@@ -36,9 +36,9 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Railway Engineering, Global Supply Chain Management and Policy making"
+  sidebar_about_description = "Intercontinental Railway Transport, Global Supply Chain Management and Policy making"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/jing.JPG"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/shan.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
