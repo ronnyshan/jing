@@ -15,7 +15,7 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "单靖 | Shan Jing"
-  description = "单靖，专注全球供应链, 亚欧铁路，自律 | 这里是 单靖 的博客，与你一起探索更大的世界。"
+  description = "单靖，专注全球供应链, 亚欧铁路，自律 | 这里是 单靖 的网站，与你一起探索更大的世界。"
   keyword = "单靖, Shanjing, , 赵化冰的网络日志, 赵化冰的博客, Shanjing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
   slogan = "Discipline Equals Freedom"
   upstreamAttribution = true
@@ -36,7 +36,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
+  sidebar_about_description = "Railway Engineering, Global Supply Chain Management and Policy making"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/shan.JPG"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
@@ -69,7 +69,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   [params.social]
   rss            = true 
-  email          = "youremail@gmail.com"
+  email          = "ronnyshan@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
