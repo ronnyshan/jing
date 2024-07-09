@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHAN on Shanjing Blog</title>
+    <link>http://localhost:1313/categories/shan/</link>
+    <description>Recent content in SHAN on Shanjing Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2018 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/shan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中老泰马四国政府</title>
+      <link>http://localhost:1313/2018/02/09/%E9%99%86%E6%B5%B7%E5%86%85%E5%A4%96%E8%81%94%E5%8A%A8/</link>
+      <pubDate>Fri, 09 Feb 2018 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2018/02/09/%E9%99%86%E6%B5%B7%E5%86%85%E5%A4%96%E8%81%94%E5%8A%A8/</guid>
+      <description>本次班列的开行得到了中老泰马四国政府、海关、铁路及各方企业的大力支持，为我国西部地区与东盟国家的经贸往来开辟了一条新路径，也是中老泰马各方共</description>
+    </item>
+  </channel>
+</rss>
