@@ -17,7 +17,7 @@ home = ["HTML", "RSS", "Algolia"]
   SEOTitle = "单靖 | Shan Jing"
   description = "单靖，专注全球供应链, 亚欧铁路，自律 | 这里是 单靖 的网站，与你一起探索更大的世界。"
   keyword = "单靖, Shanjing, , 赵化冰的网络日志, 赵化冰的博客, Shanjing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
-  slogan = "Discipline Equals Freedom"
+  slogan = "You cannot have joy without pain, resilience without challenges, happiness without sadness, or bravery without fear."
   upstreamAttribution = true
 
   image_404 = "img/404-bg.jpg"
