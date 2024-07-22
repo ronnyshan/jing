@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Shan Jing</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Shan Jing</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/index-z1h/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/index-z1h/</guid>
+      <description>About Me Shan Jing is a dedicated researcher specializing in integrating intercontinental rail freight into the global supply chain, building on years of experience in international railway companies. My work involves developing tools for intercontinental rail freight, including planning, KPI frameworks, and information integration, alongside strategies for integrated rail supply chain operations. I also focus on evaluating operational performances using advanced data-driven models and algorithms.&#xA;Awards Competition Prize Location Date The TRA VISIONS 2024 Young Researchers Competition 2nd Prize in Rail Mode Supply Chain Oriented Integrated Tactical Planning Method (ITPM) for Intercontinental Rail Freight Transport Dublin, Ireland 15.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/index-zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/index-zh/</guid>
+      <description>关于我 单靖：单靖：国际铁路供应链专家，中欧班列一线参与者，曾在不同国际铁路运营商任职，包括中国国家铁路欧洲公司，奥地利国家铁路，瑞士Inte</description>
+    </item>
+  </channel>
+</rss>

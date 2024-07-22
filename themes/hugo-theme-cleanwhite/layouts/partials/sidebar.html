@@ -12,14 +12,24 @@
     <section class="visible-md visible-lg">
 	<!--<hr><h5><a href="{{ "/about" | relLangURL }}">ABOUT ME</a></h5>-->
         <div class="short-about">
-            {{ with .Site.Params.sidebar_avatar }}
+           <!--  {{ with .Site.Params.sidebar_avatar }}
             <a href="{{ "/about" | relLangURL }}">
                <img src="{{ . | relURL }}" alt="avatar" style="cursor: pointer" />
             </a>
             {{ end }}
+        
             {{ with .Site.Params.sidebar_about_description }}
                 <p>{{ . }}</p>
             {{ end }}
+            --> 
+            <!-- YouTube Live Link Section -->
+                <!-- YouTube Live Link Section -->
+            {{ if .Site.Params.youtube_live_link }}
+            <div class="youtube-live">
+                <iframe width="300" height="169" src="https://www.youtube.com/embed/jdoyIOZWh8c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            {{ end }}
+            <div style="margin-top: 20px;"></div>
            <!-- SNS Link -->
            <ul class="list-inline">
                {{ if .Site.Params.social.email }}
@@ -236,18 +246,27 @@
     </section>
     {{ end }}
 
-    <!-- Friends Blog -->
-    {{ if .Site.Params.friends }}
+     <!-- My Book -->
+     {{ if .Site.Params.my_book_image }}
+   
+     <section>
+        <hr class="hidden-sm hidden-xs">
+        <h5>MY BOOK</h5>
+        <a href="https://item.jd.com/12528459.html" target="_blank">
+            <img src="{{ .Site.Params.my_book_image | relURL }}" alt="My Book" style="margin-top: 20px; width: 200px; height: auto;">
+    </section>
+    
     <section>
         <hr class="hidden-sm hidden-xs">
-        <h5>FRIENDS</h5>
-        <ul class="list-inline">
-            {{ range .Site.Params.friend_link }}
-            <li><a target="_blank" href="{{.href}}">{{.title}}</a></li>
-            {{ end }}
-        </ul>
+        <h5>PUBLICATIONS</h5>
+        <a href="https://scholar.google.com/citations?user=KHiMBlYAAAAJ&hl=en" target="_blank">Google Scholar</a>
+        <br>
+        <a href="https://www.researchgate.net/profile/Jing-Shan-6" target="_blank">ResearchGate</a>
     </section>
-    {{ end }}
+    
+     {{ end }}
+
+
     {{ if .Site.Params.publications }}
     <section>
         <hr class="hidden-sm hidden-xs">

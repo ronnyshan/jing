@@ -1,3 +1,35 @@
-## 关于我
-**_单靖_**：全球供应链专家，中欧班列一线参与者，毕业于德国德累斯顿工业大学“Friedrich List”运输与交通科学学院，著有《中欧班列：全球供应链变革的试验场》一书，本书先后在中国日报、瞭望智库、求是网等刊登书评，全书音频上线“学习强国”。
 
+## 关于我
+**_单靖_**：单靖：国际铁路供应链专家，中欧班列一线参与者，曾在不同国际铁路运营商任职，包括中国国家铁路欧洲公司，奥地利国家铁路，瑞士Interrail等公司，多次接受国际媒体采访，德国德累斯顿工业大学“Friedrich List”运输与交通科学学院博士研究生，研究方向包括国际铁路运输、全球供应链和人工智能在铁路供应链领域的应用，著有《中欧班列：全球供应链变革的试验场》一书，2019年法兰克福书展期间，接受新华社记者专访，本书先后在中国日报、瞭望智库、求是网等刊登书评，全书音频上线“学习强国”，参加国际学术会议和发表国际期刊论文。
+
+## 采访 (节选)
+
+- [**中欧班列让古老商路焕发生机**](http://news.xinhuanet.com/mrdx/2016-07/22/c_135532687.htm)
+- [**中欧班列连起亚欧共赢新丝路**](http://www.banyuetan.org/chcontent/sz/hqkd/2016926/209873.shtml)
+- [**新丝路上的蓝色长龙**](http://news.163.com/16/1213/13/C85TUHL5000187V5.html)
+- [**中欧班列书写"一带一路"最美画卷**](http://www.china.com.cn/news/2017-04/13/content_40613253.htm)
+- [**Regelmäßige Zugfahrten zwischen China und Europa fördern Seidenstraßen-Aufbau**](http://german.china.org.cn/txt/2017-04/13/content_40614739.htm)
+- [**Feature: China-Europe freight trains bring vitality to ancient Silk Road**](http://news.xinhuanet.com/english/2016-07/23/c_135534991.htm)
+- [**特写：和中欧班列一起成长的中国经理**](http://news.sina.com.cn/o/2017-05-01/doc-ifyetstt4055262.shtml)
+- [**中欧班列：新丝路上的“友谊”快车**](http://news.cri.cn/2017421/194ba600-fc6a-8bd8-4aeb-88d9a3409e9f.html)
+- [**中欧班列催生亚欧产业新版图，去年里程相当于绕地球424圈**](http://news.163.com/17/0605/13/CM60NGIV000187VE.html)
+- [**中欧班列激发德国物流业新活力**](http://news.xinhuanet.com/world/2017-06/08/c_1121108357.htm)
+- [**广东广播电视台《搭上中欧班列的快车》**](https://baijiahao.baidu.com/s?id=1644830509106331562&wfr=spider&for=pc)
+- [**特別寄稿：新シルクロードを走るブルードラゴン―「中欧班列」が準備を整え再出発**](http://jp.xinhuanet.com/2016-12/14/c_135904780.htm)
+- [**China-Europe freight train boosts European industrial growth**](http://www.ecns.cn/business/2017/06-07/260420.shtml)
+- [**Güterzüge zwischen China und Europa schieben europäisches Industriewachstum an**](http://german.china.org.cn/txt/2017-06/08/content_40990236.htm)
+- [**News Analysis: Belt and Road Initiative provides G20 with new ideas of cooperation**](http://news.xinhuanet.com/english/2017-07/06/c_136422162.htm)
+- [**（习近平出访配合稿）探访“一带一路”德国枢纽——杜伊斯堡篇**](http://news.163.com/17/0703/11/CODTU4O200018AOQ.html)
+- [**Ever expanding Chinese rail network boosts German 'China city'**](http://www.chinadaily.com.cn/business/2017-11/28/content_35092415.htm)
+- [**专访：读懂中欧班列给沿线国家带来的改变——访法兰克福书展参展作者单靖**](https://www.chinanews.com.cn/gn/2019/10-19/8983782.shtml)
+- [**进博会对话：中欧班列的发展升级——全球供应链期待新力量**](http://news.cri.cn/toutiaopic/b22b16b3-5e3e-6c29-9a42-fca4f4135113.html)
+- [**中国建设综合立体交通网助力全球物流提质增效**](https://xhpfmapi.zhongguowangshi.com/vh512/share/9826630?channel=weixin)
+- [**到孟加拉你才知道什么叫堵！于是江苏人帮他们造了一座桥丨一带一路江苏风**](http://news.jstv.com/a/20170509/1494332066944.shtml)
+- [**Interview: Eurasian high-speed railways maximize China-Europe trade volume: Chinese expert**](https://english.news.cn/20230501/d3489526b3334a148271b136b2d0b55b/c.html)
+- [**全球连线 | 中国建设综合立体交通网助力全球物流提质增效**](https://xhpfmapi.zhongguowangshi.com/vh512/share/9826630?channel=weixin)
+- [**“春节热”点亮全球“中国红”**](https://h.xinhuaxmt.com/vh512/share/11332590?d=134afea&channel=weixin)
+- [**RailBelgrade 2023**](https://www.dailymotion.com/video/x8kh33y)
+- [**Eurasian high-speed railways maximize China-Europe trade volume: Chinese expert**](https://english.news.cn/20230501/558f6257c45a4fd9b0de1c0c473bdbc6/c.html)
+- [**China-Europe freight trains help stabilize global supply chain**](http://english.scio.gov.cn/beltandroad/2020-04/24/content_75970322.htm)
+- [**特稿：铁马奔腾 驰而不息——中欧班列为沿线国家共同发展开辟更广阔路径**](https://www.gov.cn/yaowen/liebiao/202309/content_6904913.htm)
+- [**China-Europe freight trains help promote global trade**](https://radio.cgtn.com/news/recommend/China-Europe-freight-trains-help-promote-global-trade/2352)

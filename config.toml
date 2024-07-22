@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "Algolia"]
   header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "单靖 | Shan Jing"
   description = "单靖，专注全球供应链, 亚欧铁路，自律 | 这里是 单靖 的网站，与你一起探索更大的世界。"
-  keyword = "单靖, Shanjing, , 赵化冰的网络日志, 赵化冰的博客, Shanjing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  keyword = "单靖, Shan jing，Operations ResearchSupply Chain ManagementLogisticsTransport ModelingRevenue ManagementMultimodalityMultiobjective OptimizationNetwork DesignRailway SchedulingContainer ShippingModelingDigital StrategyMarketing Strategy"
   slogan = "You cannot have joy without pain, resilience without challenges, happiness without sadness, or bravery without fear."
   upstreamAttribution = true
 
@@ -36,9 +36,12 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Intercontinental Railway Transport, Global Supply Chain Management and Policy making"
+  sidebar_about_description = "Intercontinental Railway Transport, Global Supply Chain Management, Multimodality, Multiobjective Optimization, Network Design, Railway Scheduling and Policy making"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/shan.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+ # sidebar_avatar = "img/shanjing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+ # Include the book image in the params
+  my_book_image = "img/my_book.jpg"
+  youtube_live_link = "https://www.youtube.com/watch?v=jdoyIOZWh8c"
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -56,10 +59,10 @@ home = ["HTML", "RSS", "Algolia"]
   twikoo_env_id = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
-  reward = true 
+  # reward = true 
   # reward_guide = "如果这篇文章对你有用,请随意打赏" 
 
-  friends = true
+   friends = true
   bookmarks = false
   about_me = true
 
@@ -74,9 +77,9 @@ home = ["HTML", "RSS", "Algolia"]
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
   linkedin       = "https://www.linkedin.com/in/jingshang/"
-  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
+  #github         = "https://github.com/yourgithub"
   wechat         = "img/wechat_qrcode.jpg"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
@@ -88,9 +91,9 @@ home = ["HTML", "RSS", "Algolia"]
   #xing          = "https://www.xing.com/profile/yourxingid"
   #git           = "full profile url for git user"
   
-  [[params.friend_link]]
-  title = "Linda的博客"
-  href =  "https://zhaozhihan.com"
+ #[[params.friend_link]]
+ # title = "Linda的博客"
+ # href =  "https://zhaozhihan.com"
 
   [[params.bookmark_link]]
   title =  "Martin Fowler"
@@ -113,11 +116,17 @@ home = ["HTML", "RSS", "Algolia"]
   title =  "ARCHIVE"
   href =  "/archive/"
 
+ #  [[params.addtional_menus]]
+ #  title =  "NOTES"
+#   href =  "/notes/"
 
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/about/"
 
+#  [[params.addtional_menus]]
+#  title =  "Pub"
+#  href =  "/Pub/"
 
 
 [outputFormats.Algolia]
