@@ -6,34 +6,13 @@
     <description>Recent content in Categories on Shan Jing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jul 2024 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pub</title>
-      <link>http://localhost:1313/categories/pub/</link>
-      <pubDate>Sun, 07 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/pub/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tes</title>
-      <link>http://localhost:1313/categories/tes/</link>
-      <pubDate>Fri, 09 Feb 2018 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Testwe</title>
-      <link>http://localhost:1313/categories/testwe/</link>
-      <pubDate>Fri, 09 Feb 2018 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/testwe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Culture</title>
-      <link>http://localhost:1313/categories/culture/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/culture/</guid>
+      <title>Transport</title>
+      <link>http://localhost:1313/categories/transport/</link>
+      <pubDate>Mon, 22 Jul 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/transport/</guid>
       <description></description>
     </item>
   </channel>
