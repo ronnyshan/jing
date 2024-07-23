@@ -1385,7 +1385,7 @@ li.pingback:first-child {
     width: 50%;
     display: inline-block;
     vertical-align: top;
-    text-align: justify;
+    text-align: left;
   }
   .comment-pagination .next-comment {
     text-align: right;
