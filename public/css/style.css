@@ -1016,6 +1016,9 @@ a img {
   text-align: center;
 }
 
+.post-content p {
+  text-align: justify;
+}
 
 .entry-header {
   text-align: center;
