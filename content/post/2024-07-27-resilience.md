@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Rail attacks at Paris Oympics highlight security vulnerabilities in the Eurasian rail freight network"
+title:      "Rail attacks at Paris Olympics highlight security vulnerabilities in the Eurasian rail freight network"
 subtitle:   ""
 description: "Rail resilience"
 excerpt: "Rail attacks"
