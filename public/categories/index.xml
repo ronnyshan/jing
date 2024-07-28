@@ -6,13 +6,20 @@
     <description>Recent content in Categories on Shan Jing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2024 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 11:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Transport</title>
-      <link>http://localhost:1313/categories/transport/</link>
-      <pubDate>Mon, 22 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/transport/</guid>
+      <title>Eurasia</title>
+      <link>http://localhost:1313/categories/eurasia/</link>
+      <pubDate>Sat, 27 Jul 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/eurasia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/categories/technology/</link>
+      <pubDate>Tue, 23 Jul 2024 11:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
   </channel>

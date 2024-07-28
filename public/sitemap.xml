@@ -2,28 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-07-28T10:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-28T10:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-07-22T10:00:00+00:00</lastmod>
+    <lastmod>2024-07-27T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/eurasia/</loc>
+    <lastmod>2024-07-27T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/eurasian-rail-freight/</loc>
+    <lastmod>2024-07-27T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/07/27/resilience/</loc>
+    <lastmod>2024-07-27T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/resilience/</loc>
+    <lastmod>2024-07-27T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-27T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2024-07-23T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/07/22/AI/</loc>
+    <lastmod>2024-07-23T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology/</loc>
+    <lastmod>2024-07-23T11:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024/07/22/AI/</loc>
+    <lastmod>2024-07-23T11:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/2024/07/22/TITR/</loc>
     <lastmod>2024-07-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/eurasian-rail-freight/</loc>
-    <lastmod>2024-07-22T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-07-22T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-22T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-22T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/titr/</loc>
-    <lastmod>2024-07-22T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/transport/</loc>
     <lastmod>2024-07-22T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
