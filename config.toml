@@ -3,8 +3,8 @@ title = "Shan Jing"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "Shan Jing"
+googleAnalytics = "Shan Jing"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
@@ -12,7 +12,7 @@ hasCJKLanguage = true
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
-[params]
+[params] 
   header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "单靖 | Shan Jing"
   description = "单靖，专注全球供应链, 亚欧铁路，自律 | 这里是 单靖 的网站，与你一起探索更大的世界。"

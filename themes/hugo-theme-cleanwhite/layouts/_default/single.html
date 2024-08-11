@@ -57,6 +57,7 @@
 </header>
 {{ end }}
 
+
 {{ define "main" }}
 <!-- Post Content -->
 <article>
@@ -69,16 +70,35 @@
                 col-md-10 col-md-offset-1
                 post-container">
 
-                <!--
-                {{ if not (eq (.Param "showtoc") false) }}
-                <header>
-                    <h2>TOC</h2>
-                </header>
-                {{.TableOfContents}}
+                <!-- Password Protection Logic -->
+                {{ if .Params.password_protected }}
+                    <div>
+                        <script type="text/javascript">
+                            function checkPassword() {
+                                var password = prompt("Enter the password:");
+                                if (password === "{{ .Params.password }}") {
+                                    document.getElementById("protected-content").style.display = "block";
+                                } else {
+                                    alert("Wrong password!");
+                                    checkPassword();  // Re-prompt for password
+                                }
+                            }
+                            // Automatically prompt for password on page load
+                            window.onload = function() {
+                                checkPassword();
+                            };
+                        </script>
+                        <div id="protected-content" style="display:none;">
+                            <!-- Article content goes here -->
+                            {{ .Content }}
+                        </div>
+                    </div>
+                {{ else }}
+                    <!-- If no password protection, display content normally -->
+                    {{ .Content }}
                 {{ end }}
-                -->
-                {{ .Content }}
 
+                <!-- Remaining content like comments, TOC, etc. -->
                 {{ if .Site.Params.reward }}
                 {{ partial "reward.html" . }}
                 {{ end }}
@@ -88,13 +108,13 @@
                 <ul class="pager">
                     {{ if .PrevInSection }}
                     <li class="previous">
-                        <a href="{{ .PrevInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title}}">&larr;
+                        <a href="{{ .PrevInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr;
                             Previous Post</a>
                     </li>
                     {{ end }}
                     {{ if .NextInSection }}
                     <li class="next">
-                        <a href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title}}">Next
+                        <a href="{{ .NextInSection.RelPermalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">Next
                             Post &rarr;</a>
                     </li>
                     {{ end }}
@@ -152,7 +172,7 @@
                     <h5>FRIENDS</h5>
                     <ul class="list-inline">
                         {{ range .Site.Params.friend_link }}
-                        <li><a target="_blank" href="{{.href}}">{{.title}}</a></li>
+                        <li><a target="_blank" href="{{ .href }}">{{ .title }}</a></li>
                         {{ end }}
                     </ul>
                 </section>

@@ -15,6 +15,8 @@ tags:
 
 URL: "/2024/07/22/寒山寺/"
 categories: [ Notes ]
+password_protected: true
+password: "407704"
 ---
 
 
