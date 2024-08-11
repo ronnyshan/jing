@@ -3,7 +3,7 @@ title = "Shan Jing"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "Shan Jing"
+disqusShortname = ""
 googleAnalytics = "Shan Jing"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
