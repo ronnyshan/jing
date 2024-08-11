@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:56792/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/categories/notes/</loc>
+    <loc>http://localhost:1313/categories/notes/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/self-discipline/</loc>
+    <loc>http://localhost:1313/tags/self-discipline/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/2024/08/14/sleep/</loc>
+    <loc>http://localhost:1313/2024/08/14/sleep/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/culture/</loc>
+    <loc>http://localhost:1313/tags/culture/</loc>
     <lastmod>2024-07-28T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/2024/07/28/Neptunbrunnen/</loc>
+    <loc>http://localhost:1313/2024/07/28/Neptunbrunnen/</loc>
     <lastmod>2024-07-28T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/categories/eurasia/</loc>
+    <loc>http://localhost:1313/categories/eurasia/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/eurasian-rail-freight/</loc>
+    <loc>http://localhost:1313/tags/eurasian-rail-freight/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/2024/07/27/resilience/</loc>
+    <loc>http://localhost:1313/2024/07/27/resilience/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/resilience/</loc>
+    <loc>http://localhost:1313/tags/resilience/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/germany/</loc>
+    <loc>http://localhost:1313/tags/germany/</loc>
     <lastmod>2024-07-25T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/2024/07/27/germanfootball/</loc>
+    <loc>http://localhost:1313/2024/07/27/germanfootball/</loc>
     <lastmod>2024-07-25T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/ai/</loc>
+    <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2024-07-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/categories/technology/</loc>
+    <loc>http://localhost:1313/categories/technology/</loc>
     <lastmod>2024-07-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/2024/07/22/AI/</loc>
+    <loc>http://localhost:1313/2024/07/22/AI/</loc>
     <lastmod>2024-07-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/2024/07/22/TITR/</loc>
+    <loc>http://localhost:1313/2024/07/22/TITR/</loc>
     <lastmod>2024-07-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/tags/titr/</loc>
+    <loc>http://localhost:1313/tags/titr/</loc>
     <lastmod>2024-07-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</loc>
+    <loc>http://localhost:1313/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</loc>
     <lastmod>2024-06-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56792/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:56792/notes/</loc>
+    <loc>http://localhost:1313/notes/</loc>
   </url><url>
-    <loc>http://localhost:56792/search/placeholder/</loc>
+    <loc>http://localhost:1313/search/placeholder/</loc>
   </url><url>
-    <loc>http://localhost:56792/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>http://localhost:56792/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
