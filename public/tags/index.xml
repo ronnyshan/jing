@@ -2,59 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shan Jing</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:55874/tags/</link>
     <description>Recent content in Tags on Shan Jing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Aug 2024 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:55874/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Culture</title>
-      <link>http://localhost:1313/tags/culture/</link>
-      <pubDate>Sun, 28 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/culture/</guid>
+      <title>Self-Discipline</title>
+      <link>http://localhost:55874/tags/self-discipline/</link>
+      <pubDate>Sun, 11 Aug 2024 10:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/self-discipline/</guid>
       <description></description>
     </item>
     <item>
-      <title>Self-Discipline</title>
-      <link>http://localhost:1313/tags/self-discipline/</link>
+      <title>Culture</title>
+      <link>http://localhost:55874/tags/culture/</link>
       <pubDate>Sun, 28 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/self-discipline/</guid>
+      <guid>http://localhost:55874/tags/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Eurasian Rail Freight</title>
-      <link>http://localhost:1313/tags/eurasian-rail-freight/</link>
+      <link>http://localhost:55874/tags/eurasian-rail-freight/</link>
       <pubDate>Sat, 27 Jul 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/eurasian-rail-freight/</guid>
+      <guid>http://localhost:55874/tags/eurasian-rail-freight/</guid>
       <description></description>
     </item>
     <item>
       <title>Resilience</title>
-      <link>http://localhost:1313/tags/resilience/</link>
+      <link>http://localhost:55874/tags/resilience/</link>
       <pubDate>Sat, 27 Jul 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/resilience/</guid>
+      <guid>http://localhost:55874/tags/resilience/</guid>
       <description></description>
     </item>
     <item>
       <title>Germany</title>
-      <link>http://localhost:1313/tags/germany/</link>
+      <link>http://localhost:55874/tags/germany/</link>
       <pubDate>Thu, 25 Jul 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/germany/</guid>
+      <guid>http://localhost:55874/tags/germany/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://localhost:55874/tags/ai/</link>
       <pubDate>Tue, 23 Jul 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:55874/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>TITR</title>
-      <link>http://localhost:1313/tags/titr/</link>
+      <link>http://localhost:55874/tags/titr/</link>
       <pubDate>Mon, 22 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/titr/</guid>
+      <guid>http://localhost:55874/tags/titr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Istio</title>
+      <link>http://localhost:55874/tags/istio/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/istio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:55874/tags/ubuntu/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microservice</title>
+      <link>http://localhost:55874/tags/microservice/</link>
+      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/microservice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:55874/tags/security/</link>
+      <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes</title>
+      <link>http://localhost:55874/tags/kubernetes/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:55874/tags/travel/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Helm</title>
+      <link>http://localhost:55874/tags/helm/</link>
+      <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/helm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API Gateway</title>
+      <link>http://localhost:55874/tags/api-gateway/</link>
+      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service Mesh</title>
+      <link>http://localhost:55874/tags/service-mesh/</link>
+      <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:55874/tags/docker/</link>
+      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:55874/tags/tips/</link>
+      <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vim</title>
+      <link>http://localhost:55874/tags/vim/</link>
+      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/vim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nginmesh</title>
+      <link>http://localhost:55874/tags/nginmesh/</link>
+      <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
+      <guid>http://localhost:55874/tags/nginmesh/</guid>
       <description></description>
     </item>
   </channel>

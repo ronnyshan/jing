@@ -2666,6 +2666,19 @@ li.pingback:first-child {
   margin-top: 1.5em !important;
 }
 
+.text-red {
+  color: red;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-custom {
+  color: blue; 
+}
+
+
 #bbp_topic_tags {
   max-width: 500px;
   font-size: 13px;
