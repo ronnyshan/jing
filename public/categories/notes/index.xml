@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Shan Jing</title>
-    <link>http://localhost:55874/categories/notes/</link>
+    <link>http://localhost:56792/categories/notes/</link>
     <description>Recent content in Notes on Shan Jing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Aug 2024 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55874/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56792/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>睡眠影响performance</title>
-      <link>http://localhost:55874/2024/07/22/sleep/</link>
+      <title>睡眠影响成绩</title>
+      <link>http://localhost:56792/2024/08/14/sleep/</link>
       <pubDate>Sun, 11 Aug 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:55874/2024/07/22/sleep/</guid>
+      <guid>http://localhost:56792/2024/08/14/sleep/</guid>
       <description>睡眠影响如何影响成绩 Cheri Mah 博士曾与金州勇士队和旧金山巨人队等多支专业球队合作，实施睡眠优化策略。这些计划整合了睡眠教育和技术，重点是创造最佳睡</description>
     </item>
     <item>
       <title>德累斯顿海王星喷泉</title>
-      <link>http://localhost:55874/2024/07/28/Neptunbrunnen/</link>
+      <link>http://localhost:56792/2024/07/28/Neptunbrunnen/</link>
       <pubDate>Sun, 28 Jul 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:55874/2024/07/28/Neptunbrunnen/</guid>
+      <guid>http://localhost:56792/2024/07/28/Neptunbrunnen/</guid>
       <description>今天是周末，健身房关门了，也不想去游泳。每周三次是自己不讨厌的，过去一个月几乎每天去游泳。 之前每次都是同样的线路跑步，今天尝试了一条陌生的线</description>
     </item>
     <item>
       <title>欧洲杯1/4决赛，德国出局欧洲杯</title>
-      <link>http://localhost:55874/2024/07/27/germanfootball/</link>
+      <link>http://localhost:56792/2024/07/27/germanfootball/</link>
       <pubDate>Thu, 25 Jul 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:55874/2024/07/27/germanfootball/</guid>
+      <guid>http://localhost:56792/2024/07/27/germanfootball/</guid>
       <description>欧洲杯1/4决赛后，德国的街道很安静。2006年德国世界杯和2010年南非世界杯，德国队都打入了1/4决赛。看着德国在2014年世界杯夺冠后</description>
     </item>
     <item>
       <title>寒山和拾得的对话</title>
-      <link>http://localhost:55874/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</link>
+      <link>http://localhost:56792/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</link>
       <pubDate>Sun, 23 Jun 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:55874/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</guid>
+      <guid>http://localhost:56792/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</guid>
       <description>2024年6月22日，和父母，妹妹一家一起去了苏州寒山寺。寒山是一个僧人的名字。寒山寺是苏州城外一座小寺，因张继的《枫桥夜泊》一诗闻名，成为</description>
     </item>
   </channel>

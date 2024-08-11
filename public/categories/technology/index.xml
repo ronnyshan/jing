@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology on Shan Jing</title>
-    <link>http://localhost:55874/categories/technology/</link>
+    <link>http://localhost:56792/categories/technology/</link>
     <description>Recent content in Technology on Shan Jing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 11:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:55874/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56792/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The seven levels of artificial intelligence</title>
-      <link>http://localhost:55874/2024/07/22/AI/</link>
+      <link>http://localhost:56792/2024/07/22/AI/</link>
       <pubDate>Tue, 23 Jul 2024 11:00:00 +0000</pubDate>
-      <guid>http://localhost:55874/2024/07/22/AI/</guid>
+      <guid>http://localhost:56792/2024/07/22/AI/</guid>
       <description>Author: Warren B. Powell Professor Emeritus, Princeton University&#xA;There are now countless articles breathlessly talking about “AI,” the vast majority of which are talking about a very specific form of AI which is some form of machine learning (mostly pattern recognition) being performed using neural networks. This is hardly the only form of artificial intelligence, and it is far from even being the most advanced form. In addition, there are breathless articles of advanced intelligence which I claim are pure science fiction.</description>
     </item>
   </channel>

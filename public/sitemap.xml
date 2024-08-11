@@ -2,188 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:55874/categories/</loc>
+    <loc>http://localhost:56792/categories/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/categories/notes/</loc>
+    <loc>http://localhost:56792/categories/notes/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/post/</loc>
+    <loc>http://localhost:56792/post/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/self-discipline/</loc>
+    <loc>http://localhost:56792/tags/self-discipline/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/</loc>
+    <loc>http://localhost:56792/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/</loc>
+    <loc>http://localhost:56792/tags/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/2024/07/22/sleep/</loc>
+    <loc>http://localhost:56792/2024/08/14/sleep/</loc>
     <lastmod>2024-08-11T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/culture/</loc>
+    <loc>http://localhost:56792/tags/culture/</loc>
     <lastmod>2024-07-28T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/2024/07/28/Neptunbrunnen/</loc>
+    <loc>http://localhost:56792/2024/07/28/Neptunbrunnen/</loc>
     <lastmod>2024-07-28T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/categories/eurasia/</loc>
+    <loc>http://localhost:56792/categories/eurasia/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/eurasian-rail-freight/</loc>
+    <loc>http://localhost:56792/tags/eurasian-rail-freight/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/2024/07/27/resilience/</loc>
+    <loc>http://localhost:56792/2024/07/27/resilience/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/resilience/</loc>
+    <loc>http://localhost:56792/tags/resilience/</loc>
     <lastmod>2024-07-27T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/germany/</loc>
+    <loc>http://localhost:56792/tags/germany/</loc>
     <lastmod>2024-07-25T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/2024/07/27/germanfootball/</loc>
+    <loc>http://localhost:56792/2024/07/27/germanfootball/</loc>
     <lastmod>2024-07-25T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/ai/</loc>
+    <loc>http://localhost:56792/tags/ai/</loc>
     <lastmod>2024-07-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/categories/technology/</loc>
+    <loc>http://localhost:56792/categories/technology/</loc>
     <lastmod>2024-07-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/2024/07/22/AI/</loc>
+    <loc>http://localhost:56792/2024/07/22/AI/</loc>
     <lastmod>2024-07-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/2024/07/22/TITR/</loc>
+    <loc>http://localhost:56792/2024/07/22/TITR/</loc>
     <lastmod>2024-07-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/titr/</loc>
+    <loc>http://localhost:56792/tags/titr/</loc>
     <lastmod>2024-07-22T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</loc>
+    <loc>http://localhost:56792/2024/07/22/%E5%AF%92%E5%B1%B1%E5%AF%BA/</loc>
     <lastmod>2024-06-23T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:55874/tags/istio/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:56792/about/</loc>
   </url><url>
-    <loc>http://localhost:55874/2018/06/04/introducing-the-istio-v1alpha3-routing-api/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:56792/notes/</loc>
   </url><url>
-    <loc>http://localhost:55874/categories/tech/</loc>
-    <lastmod>2018-06-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:56792/search/placeholder/</loc>
   </url><url>
-    <loc>http://localhost:55874/2018/06/02/istio08/</loc>
-    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:56792/archive/</loc>
   </url><url>
-    <loc>http://localhost:55874/2018/05/24/set_up_my_ubuntu_desktop/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/categories/tips/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/ubuntu/</loc>
-    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/microservice/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/security/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/05/23/external_system_auth/</loc>
-    <lastmod>2018-05-23T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/05/23/service_2_service_auth/</loc>
-    <lastmod>2018-05-23T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/05/22/user_authentication_authorization/</loc>
-    <lastmod>2018-05-23T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/05/23/istio-auto-injection-with-webhook/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/kubernetes/</loc>
-    <lastmod>2018-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/categories/life/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/travel/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/05/01/may-day-jiulonghu/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/helm/</loc>
-    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/04/16/using-helm-to-deploy-to-kubernetes/</loc>
-    <lastmod>2018-04-16T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/api-gateway/</loc>
-    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/service-mesh/</loc>
-    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/04/11/service-mesh-vs-api-gateway/</loc>
-    <lastmod>2018-04-11T09:32:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/03/29/what-is-service-mesh-and-istio/</loc>
-    <lastmod>2018-03-29T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/docker/</loc>
-    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/tips/</loc>
-    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/03/13/use-docker-behind-http-proxy/</loc>
-    <lastmod>2018-03-13T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/vim/</loc>
-    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/02/09/vim-tips/</loc>
-    <lastmod>2018-02-09T11:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/02/09/docker-without-sudo/</loc>
-    <lastmod>2018-02-09T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/05/22/user_authentication_authorization/</loc>
-    <lastmod>2018-02-03T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/tags/nginmesh/</loc>
-    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2018/01/02/nginmesh-install/</loc>
-    <lastmod>2018-01-02T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2017/11/28/access-application-from-outside/</loc>
-    <lastmod>2017-11-28T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2017/11/08/istio-canary-release/</loc>
-    <lastmod>2017-11-08T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2017/11/07/istio-traffic-shifting/</loc>
-    <lastmod>2017-11-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2017/11/04/istio-install_and_example/</loc>
-    <lastmod>2017-11-04T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/2017/11/03/hello-world/</loc>
-    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:55874/about/</loc>
-  </url><url>
-    <loc>http://localhost:55874/notes/</loc>
-  </url><url>
-    <loc>http://localhost:55874/search/placeholder/</loc>
-  </url><url>
-    <loc>http://localhost:55874/archive/</loc>
-  </url><url>
-    <loc>http://localhost:55874/search/</loc>
+    <loc>http://localhost:56792/search/</loc>
   </url>
 </urlset>
